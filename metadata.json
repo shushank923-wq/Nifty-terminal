@@ -1,0 +1,6 @@
+{
+  "name": "NSE Pulse - Real-Time Indian Stock Market Terminal",
+  "description": "Live National Stock Exchange (NSE India) market trends visualizer featuring real-time NIFTY indices, top gainers and losers, FII/DII institutional activity, sectoral heatmaps, interactive technical charts, and automated 2-minute market refreshes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
